@@ -4,6 +4,7 @@ html {
 }
 body {
   background: #02B3E4;
+  font-size: 32px;
 }
 .container {
   display:grid;
