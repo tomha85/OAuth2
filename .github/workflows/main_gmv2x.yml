@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'gmv2x'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_987B3CD83E6E420AB7E1F3CE1BB80E43 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC5E6325FF4D4F4080B0570EC976111C }}
